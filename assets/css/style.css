@@ -1,0 +1,11 @@
+body {
+	background-image: url("../img/bg.jpg");
+}
+.box {
+	background-color: rgba(187, 222, 251,.6);
+	color: rgb(255,255,255);
+	padding: 3em;
+}
+.input-field label {
+	color: rgb(255,255,255);
+}
